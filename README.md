@@ -11,3 +11,4 @@ What programming language is popular in the "star-group"?
 What kind of database is popular in the "star-group"?
 How old and how many years coding as professional developer are they in the "star-group"?
 What is the key factors of having over than medium income and keeping work-life balance?
+change some
