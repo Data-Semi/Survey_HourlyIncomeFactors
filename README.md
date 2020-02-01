@@ -26,4 +26,4 @@ The dataset for this analysis is from [Stack Overflow Annual Developer Survey 20
 5. Results
 For a bit more narrative, here's a link to my post and notebook:
 + [Blog Post](https://medium.com/@liangmhua/what-is-important-to-earn-money-with-good-work-life-balance-as-a-software-developer-eca04d9dd71e)
-+ [Note book](https://github.com/Data-Semi/Data-Science/blob/master/TimePaidRanking.ipynb)
++ [Time paid Ranking.ipynb](https://github.com/Data-Semi/Data-Science/blob/master/TimePaidRanking.ipynb)
