@@ -5,11 +5,13 @@ Software developers has the image that doing lots of overtime work.
 However, there is some of them are having good income and also keeping there work-life balance good. Naturally, I asked myself: Can I be one of them? Is it too late for me? What should I do for that? With these question, I did a brief research with the 2019 Stack Overflow's annual Developer Survey.The survey includes nearly 90,000 developers answer.   
 
 2. Packages Used    
-The following packages are required to execute the code in the jupyter notebook. They all come with the Anaconda Python distribution
+The following packages are required to execute the code in the jupyter notebook. They all come with the [Anaconda Python distribution](https://www.anaconda.com/distribution/)
 + numpy
 + pandas
 + matplotlib
-+ seaborn
++ seaborn  
+
+In addition,I used a package for analysis as below.  
 + [FeatureSelector](https://github.com/WillKoehrsen/feature-selector)
     
 3. Data Source  
