@@ -1,14 +1,31 @@
-# Data-Science
-What is important as a software developer to earn money with good work-life balance? - Based on Stack Overflow Developer Survey 2019
+# What is important as a software developer to earn money with good work-life balance? - Based on Stack Overflow Developer Survey 2019
+
+1. Project Motivation
+
 Software developers has the image that doing lots of overtime work.
-However, there is some of them are having good income and also keeping there work-life balance good. Naturally, I asked myself: Can I be one of them? Is it too late for me? What should I do for that? With these question, I did a brief research with the 2019 Stack Overflow's annual Developer Survey.The survey includes nearly 90,000 developers answer.
-For simplicity,I look at professional developers in the top 10 apearance of countries:'United States', 'India', 'United Kingdom', 'Germany', 'Canada', 'France', 'Brazil', 'Poland', 'Australia', 'Netherlands', 'Russian Federation'.
-In addition,call the group of people who has both of good income and good work-life balance as "star-group".
-To focus on the "star-group", I extract these who think about their career 'Slightly satisfied' and 'Very satisfied' group. Moreover,to avoid the group of people who earning money by getting lots of overtime pay, I decided to look at "hourly income" instead of "annual income".
-"hourly income" = "annual income" / "work hours".
-I raised these 4 questions as below.
-What programming language is popular in the "star-group"?
-What kind of database is popular in the "star-group"?
-How old and how many years coding as professional developer are they in the "star-group"?
-What is the key factors of having over than medium income and keeping work-life balance?
-change some
+However, there is some of them are having good income and also keeping there work-life balance good. Naturally, I asked myself: Can I be one of them? Is it too late for me? What should I do for that? With these question, I did a brief research with the 2019 Stack Overflow's annual Developer Survey.The survey includes nearly 90,000 developers answer. 
+
+2. Packages Used
+The following packages are required to execute the code in the jupyter notebook. They all come with the Anaconda Python distribution
+    numpy
+    pandas
+    matplotlib
+    seaborn
+    FeatureSelector
+    
+3. Data Source
+
+The dataset for this analysis is from Stack Overflow Annual Developer Survey 2019
+4. Questions in Interest
+
+  What programming language is popular in the "satisfied good earner" group?
+  What kind of database is popular in the "satisfied good earner" group?
+  How old and how many years coding as professional developer are they in the "satisfied good earner" group?
+  What is the key factors in the "satisfied good earner" group?
+
+5. Results
+
+The project notebook and the blog post link can be found below:
+
+    Project notebook
+    Blog Post
