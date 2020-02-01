@@ -1,4 +1,4 @@
-# Important factors to get high income with good work-life balance - Based on Stack Overflow Developer Survey 2019
+# Important factors to get high income with good work-life balance as a developer - Based on Stack Overflow Developer Survey 2019
 
 1. Project Motivation  
 Software developers has the image that doing lots of overtime work.  
